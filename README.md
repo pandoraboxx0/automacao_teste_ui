@@ -1,5 +1,8 @@
 
-              ![imagem png](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/e5c7320f-2edc-4317-b022-c7c947ae02bb)
+   <p align="center">
+  <img src="![imagem png](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/88fadc97-9986-4e3b-be91-bcba5b65e673)
+" alt="Sublime's custom image"/>
+</p>
 
 # Olá, eu sou a Juliana! 👋
 
