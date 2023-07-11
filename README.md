@@ -19,7 +19,7 @@ Java, Selenium, Cucumber, JUnit, BDD, TDD, POO, MVN e Bancos de dados
 
 ## Automação teste de interface
 
-Esse projeto tem como objetivo testar uma interface utilizando Java para as validações e automação do teste.
+Esse projeto tem como objetivo testar uma interface feita em HTML e CSS utilizando Java para as validações e automação do teste.
 
 ## 🛠 Ferramentas utilizadas
 Java, HTML, CSS, Selenium, Cucumber, Gherkin, JUnit, Ashot, Page Objects e MVN Project
