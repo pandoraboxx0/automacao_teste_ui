@@ -1,5 +1,5 @@
 
-![imagem png](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/e5c7320f-2edc-4317-b022-c7c947ae02bb)
+                    ![imagem png](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/e5c7320f-2edc-4317-b022-c7c947ae02bb)
 
 # Olá, eu sou a Juliana! 👋
 
