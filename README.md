@@ -17,10 +17,9 @@ Eu sou uma Dev Backend em formação, estudo ADS e estou pronta para encarar nov
 Java, Selenium, Cucumber, JUnit, BDD, TDD, POO, MVN e Bancos de dados
 
 
-
 ## Automação teste de interface
 
 Esse projeto tem como objetivo testar uma interface utilizando Java para as validações e automação do teste.
 
-## 🛠 Ferramentas
-Java, Selenium, Cucumber, JUnit, Ashot, Page Objects e MVN Project.
+## 🛠 Ferramentas utilizadas
+Java, HTML, CSS, Selenium, Cucumber, Gherkin, JUnit, Ashot, Page Objects e MVN Project
