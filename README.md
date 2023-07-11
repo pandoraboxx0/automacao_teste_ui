@@ -1,7 +1,5 @@
-
-   <p align="center">
-  <img src="![imagem png](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/88fadc97-9986-4e3b-be91-bcba5b65e673)
-" alt="Sublime's custom image"/>
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 # Olá, eu sou a Juliana! 👋
