@@ -17,14 +17,14 @@ Eu sou uma Dev Backend em formação, estudo ADS e estou pronta para encarar nov
 
 
 ## 👩‍💻 Habilidades
-Java, Selenium, Cucumber, JUnit, BDD, TDD, POO, MVN e Bancos de dados
+Java, Selenium, Cucumber, JUnit, BDD, TDD, POO, MVN e Bancos de dados.
 
 ## Automação teste de interface
 
 Esse projeto tem como objetivo testar uma interface feita em HTML e CSS utilizando Java para as validações e automação do teste.
 
 ## 🛠 Ferramentas utilizadas
-Java, HTML, CSS, Selenium, Cucumber, Gherkin, JUnit, Ashot, Page Objects e MVN Project
+Java, HTML, CSS, Selenium, Cucumber, Gherkin, JUnit, Ashot, Page Objects e MVN Project.
 
 ## 📸 Evidências 
 ![EvidenciasCT 01 - enviarFormulario](https://github.com/pandoraboxx0/automacao_teste_ui/assets/102836563/0182ebf4-cd40-46c1-b8c9-7bc1ac5c5989)
